@@ -1,0 +1,382 @@
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-04-16 23:52:52] Detected trash: metal with confidence 67%
+[2025-04-16 23:52:54] Detected trash: Plastic with confidence 71%
+[INFO] Detection started.
+[2025-04-16 23:59:20] Detected trash: Plastic with confidence 68%
+[2025-04-16 23:59:24] Detected trash: metal with confidence 67%
+[2025-04-16 23:59:56] Detected trash: metal with confidence 56%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-04-20 20:32:59] Detected trash: metal with confidence 78%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-04-20 20:36:02] Detected trash: metal with confidence 67%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-04-20 21:12:52] Detected trash: Plastic with confidence 73%
+[2025-04-20 21:12:54] Detected trash: Plastic with confidence 84%
+[2025-04-20 21:13:11] Detected trash: metal with confidence 75%
+[2025-04-20 21:14:08] Detected trash: Plastic with confidence 89%
+[INFO] Detection stopped.
+[2025-04-20 21:14:27] Detected trash: metal with confidence 77%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 15:42:10] Detected trash: Biological with confidence 87%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 15:52:19] Detected trash: Biological with confidence 62%
+[2025-05-04 15:52:26] Detected trash: Biological with confidence 87%
+[2025-05-04 15:52:26] Detected trash: Plastic with confidence 86%
+[2025-05-04 15:52:34] Detected trash: Plastic with confidence 79%
+[2025-05-04 15:53:01] Detected trash: Plastic with confidence 61%
+[2025-05-04 15:53:29] Detected trash: Plastic with confidence 59%
+[2025-05-04 15:53:36] Detected trash: metal with confidence 75%
+[2025-05-04 15:54:01] Detected trash: Plastic with confidence 64%
+[2025-05-04 15:54:07] Detected trash: Biological with confidence 87%
+[2025-05-04 15:54:14] Detected trash: Plastic with confidence 60%
+[INFO] Detection stopped.
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 16:00:53] Detected trash: Plastic with confidence 47%
+[2025-05-04 16:00:56] Detected trash: Plastic with confidence 72%
+[2025-05-04 16:01:03] Detected trash: Plastic with confidence 71%
+[2025-05-04 16:01:07] Detected trash: Plastic with confidence 62%
+[2025-05-04 16:01:08] Detected trash: metal with confidence 47%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 16:01:26] Detected trash: Plastic with confidence 78%
+[2025-05-04 16:01:26] Detected trash: Plastic with confidence 77%
+[2025-05-04 16:01:38] Detected trash: Biological with confidence 71%
+[2025-05-04 16:01:45] Detected trash: Biological with confidence 73%
+[2025-05-04 16:02:15] Detected trash: Biological with confidence 82%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 16:06:50] Detected trash: Biological with confidence 80%
+[INFO] Detection stopped by pressing 'E'.
+[INFO] Detection started.
+[2025-05-04 16:07:57] Detected trash: Biological with confidence 73%
+[2025-05-04 16:07:57] Detected trash: Plastic with confidence 42%
+[2025-05-04 16:08:00] Detected trash: Plastic with confidence 41%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 16:08:23] Detected trash: Plastic with confidence 79%
+[2025-05-04 16:09:05] Detected trash: metal with confidence 83%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 16:13:49] Detected trash: Biological with confidence 78%
+[2025-05-04 16:13:53] Detected trash: metal with confidence 78%
+[2025-05-04 16:14:01] Detected trash: Plastic with confidence 47%
+[2025-05-04 16:14:33] Detected trash: Biological with confidence 77%
+[2025-05-04 16:14:57] Detected trash: Biological with confidence 61%
+[2025-05-04 16:15:04] Detected trash: Plastic with confidence 43%
+[2025-05-04 16:15:33] Detected trash: Plastic with confidence 83%
+[2025-05-04 16:15:35] Detected trash: Plastic with confidence 75%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 16:20:21] Detected trash: Biological with confidence 75%
+[2025-05-04 16:20:48] Detected trash: Biological with confidence 72%
+[2025-05-04 16:20:54] Detected trash: Plastic with confidence 78%
+[2025-05-04 16:21:02] Detected trash: Plastic with confidence 82%
+[2025-05-04 16:21:09] Detected trash: Biological with confidence 85%
+[2025-05-04 16:21:24] Detected trash: Plastic with confidence 70%
+[2025-05-04 16:21:52] Detected trash: Biological with confidence 76%
+[INFO] Detection started.
+[2025-05-04 16:25:07] Detected trash: Biological with confidence 66%
+[2025-05-04 16:25:22] Detected trash: Plastic with confidence 71%
+[2025-05-04 16:25:25] Detected trash: Biological with confidence 72%
+[2025-05-04 16:25:50] Detected trash: Biological with confidence 86%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 16:28:13] Detected trash: Plastic with confidence 82%
+[2025-05-04 16:28:24] Detected trash: Biological with confidence 79%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:11:07] Detected trash: Biological with confidence 60%
+[2025-05-04 17:11:14] Detected trash: Biological with confidence 65%
+[2025-05-04 17:11:19] Detected trash: Trash with confidence 47%
+[2025-05-04 17:11:33] Detected trash: Plastic with confidence 89%
+[2025-05-04 17:11:41] Detected trash: Biological with confidence 48%
+[2025-05-04 17:11:44] Detected trash: Plastic with confidence 91%
+[INFO] Email alert sent.
+[2025-05-04 17:11:57] Detected trash: Plastic with confidence 49%
+[2025-05-04 17:13:07] Detected trash: Plastic with confidence 40%
+[2025-05-04 17:13:33] Detected trash: metal with confidence 59%
+[2025-05-04 17:14:13] Detected trash: Plastic with confidence 82%
+[2025-05-04 17:14:50] Detected trash: Plastic with confidence 43%
+[2025-05-04 17:14:56] Detected trash: Plastic with confidence 92%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:17:58] Detected trash: Plastic with confidence 89%
+[2025-05-04 17:17:58] Detected trash: Plastic with confidence 70%
+[2025-05-04 17:18:02] Detected trash: Plastic with confidence 42%
+[2025-05-04 17:18:11] Detected trash: Plastic with confidence 44%
+[2025-05-04 17:18:21] Detected trash: Biological with confidence 83%
+[2025-05-04 17:18:53] Detected trash: Biological with confidence 75%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:20:36] Detected trash: Plastic with confidence 75%
+[2025-05-04 17:20:46] Detected trash: Trash with confidence 60%
+[2025-05-04 17:20:52] Detected trash: Plastic with confidence 64%
+[2025-05-04 17:20:55] Detected trash: Plastic with confidence 61%
+[2025-05-04 17:21:05] Detected trash: Biological with confidence 76%
+[2025-05-04 17:21:16] Detected trash: Biological with confidence 78%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:26:38] Detected trash: Plastic with confidence 41%
+[2025-05-04 17:26:42] Detected trash: metal with confidence 49%
+[2025-05-04 17:27:07] Detected trash: Plastic with confidence 48%
+[2025-05-04 17:27:21] Detected trash: Trash with confidence 64%
+[2025-05-04 17:27:31] Detected trash: Plastic with confidence 72%
+[2025-05-04 17:27:34] Detected trash: Biological with confidence 73%
+[INFO] Detection stopped.
+[2025-05-04 17:27:40] Detected trash: Biological with confidence 59%
+[INFO] Detection started.
+[2025-05-04 17:34:47] Detected trash: Plastic with confidence 56%
+[2025-05-04 17:34:57] Detected trash: Biological with confidence 67%
+[2025-05-04 17:34:59] Detected trash: Plastic with confidence 62%
+[2025-05-04 17:34:59] Detected trash: Plastic with confidence 58%
+[2025-05-04 17:35:08] Detected trash: Plastic with confidence 52%
+[2025-05-04 17:35:27] Detected trash: Plastic with confidence 57%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:37:45] Detected trash: Plastic with confidence 83%
+[2025-05-04 17:37:45] Detected trash: Plastic with confidence 68%
+[2025-05-04 17:38:02] Detected trash: Biological with confidence 69%
+[2025-05-04 17:38:18] Detected trash: Plastic with confidence 69%
+[2025-05-04 17:38:25] Detected trash: Biological with confidence 84%
+[2025-05-04 17:38:35] Detected trash: Biological with confidence 73%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:41:21] Detected trash: Biological with confidence 93%
+[2025-05-04 17:41:25] Detected trash: Plastic with confidence 40%
+[2025-05-04 17:41:27] Detected trash: Plastic with confidence 89%
+[2025-05-04 17:41:37] Detected trash: Plastic with confidence 50%
+[2025-05-04 17:41:39] Detected trash: Plastic with confidence 76%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:44:46] Detected trash: Biological with confidence 51%
+[2025-05-04 17:45:16] Detected trash: Biological with confidence 76%
+[2025-05-04 17:45:18] Detected trash: Plastic with confidence 66%
+[2025-05-04 17:45:21] Detected trash: Plastic with confidence 71%
+[2025-05-04 17:45:23] Detected trash: Trash with confidence 64%
+[2025-05-04 17:45:23] Detected trash: Plastic with confidence 43%
+[2025-05-04 17:45:25] Detected trash: Plastic with confidence 86%
+[INFO] Email alert sent.
+[2025-05-04 17:45:39] Detected trash: Plastic with confidence 42%
+[2025-05-04 17:46:37] Detected trash: Biological with confidence 68%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:49:44] Detected trash: metal with confidence 42%
+[2025-05-04 17:49:48] Detected trash: metal with confidence 71%
+[2025-05-04 17:49:58] Detected trash: Plastic with confidence 46%
+[2025-05-04 17:50:00] Detected trash: Plastic with confidence 47%
+[2025-05-04 17:50:27] Detected trash: metal with confidence 91%
+[2025-05-04 17:50:58] Detected trash: Plastic with confidence 53%
+[2025-05-04 17:51:10] Detected trash: Plastic with confidence 55%
+[2025-05-04 17:51:10] Detected trash: Plastic with confidence 43%
+[2025-05-04 17:52:06] Detected trash: Plastic with confidence 46%
+[2025-05-04 17:53:35] Detected trash: Plastic with confidence 68%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 17:56:11] Detected trash: Biological with confidence 74%
+[2025-05-04 17:56:11] Detected trash: Plastic with confidence 56%
+[2025-05-04 17:56:19] Detected trash: Plastic with confidence 49%
+[2025-05-04 17:56:21] Detected trash: Plastic with confidence 58%
+[2025-05-04 17:56:27] Detected trash: Plastic with confidence 62%
+[2025-05-04 17:56:31] Detected trash: Plastic with confidence 43%
+[INFO] Email alert sent.
+[2025-05-04 17:56:46] Detected trash: Plastic with confidence 43%
+[2025-05-04 17:56:55] Detected trash: Plastic with confidence 47%
+[2025-05-04 17:57:00] Detected trash: Plastic with confidence 40%
+[2025-05-04 17:57:24] Detected trash: Plastic with confidence 43%
+[2025-05-04 17:57:30] Detected trash: Plastic with confidence 47%
+[2025-05-04 17:57:36] Detected trash: Plastic with confidence 48%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 18:10:44] Detected trash: Biological with confidence 90%
+[2025-05-04 18:10:47] Detected trash: Plastic with confidence 71%
+[2025-05-04 18:10:49] Detected trash: metal with confidence 70%
+[2025-05-04 18:10:53] Detected trash: Plastic with confidence 61%
+[2025-05-04 18:10:55] Detected trash: Plastic with confidence 47%
+[2025-05-04 18:10:56] Detected trash: metal with confidence 44%
+[INFO] Email alert sent.
+[2025-05-04 18:11:07] Detected trash: metal with confidence 63%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 18:12:15] Detected trash: metal with confidence 67%
+[2025-05-04 18:12:28] Detected trash: Biological with confidence 50%
+[2025-05-04 18:12:31] Detected trash: Trash with confidence 59%
+[2025-05-04 18:12:35] Detected trash: Plastic with confidence 76%
+[2025-05-04 18:12:36] Detected trash: Plastic with confidence 81%
+[2025-05-04 18:12:36] Detected trash: metal with confidence 42%
+[INFO] Email alert sent.
+[2025-05-04 18:12:45] Detected trash: Plastic with confidence 44%
+[2025-05-04 18:12:52] Detected trash: Plastic with confidence 83%
+[2025-05-04 18:13:57] Detected trash: Plastic with confidence 40%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 18:15:05] Detected trash: metal with confidence 56%
+[2025-05-04 18:15:32] Detected trash: Plastic with confidence 46%
+[2025-05-04 18:15:38] Detected trash: Plastic with confidence 69%
+[2025-05-04 18:15:56] Detected trash: Plastic with confidence 86%
+[2025-05-04 18:16:12] Detected trash: Plastic with confidence 40%
+[2025-05-04 18:16:33] Detected trash: metal with confidence 44%
+[2025-05-04 18:16:54] Detected trash: metal with confidence 53%
+[2025-05-04 18:18:25] Detected trash: Biological with confidence 50%
+[2025-05-04 18:18:48] Detected trash: metal with confidence 59%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 18:21:24] Detected trash: metal with confidence 53%
+[2025-05-04 18:21:28] Detected trash: metal with confidence 50%
+[2025-05-04 18:21:47] Detected trash: Plastic with confidence 68%
+[2025-05-04 18:21:47] Detected trash: metal with confidence 57%
+[2025-05-04 18:21:51] Detected trash: Plastic with confidence 43%
+[2025-05-04 18:21:58] Detected trash: Plastic with confidence 79%
+[2025-05-04 18:21:58] Detected trash: Plastic with confidence 66%
+[INFO] Email alert sent.
+[2025-05-04 18:22:26] Detected trash: metal with confidence 68%
+[2025-05-04 18:22:49] Detected trash: Plastic with confidence 66%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 18:24:31] Detected trash: metal with confidence 45%
+[2025-05-04 18:24:37] Detected trash: Biological with confidence 49%
+[2025-05-04 18:24:37] Detected trash: metal with confidence 45%
+[2025-05-04 18:24:40] Detected trash: Biological with confidence 72%
+[2025-05-04 18:24:46] Detected trash: Plastic with confidence 40%
+[2025-05-04 18:24:56] Detected trash: metal with confidence 47%
+[INFO] Email alert sent.
+[2025-05-04 18:25:07] Detected trash: Plastic with confidence 53%
+[2025-05-04 18:25:15] Detected trash: metal with confidence 76%
+[2025-05-04 18:25:23] Detected trash: metal with confidence 46%
+[2025-05-04 18:29:07] Detected trash: metal with confidence 48%
+[INFO] Detection started.
+[2025-05-04 18:42:03] Detected trash: Plastic with confidence 59%
+[2025-05-04 18:42:05] Detected trash: metal with confidence 66%
+[2025-05-04 18:42:11] Detected trash: Plastic with confidence 74%
+[2025-05-04 18:42:13] Detected trash: Plastic with confidence 83%
+[2025-05-04 18:42:29] Detected trash: Plastic with confidence 74%
+[2025-05-04 18:42:29] Detected trash: Plastic with confidence 56%
+[INFO] Email alert sent.
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 22:29:55] Detected trash: Plastic with confidence 76%
+[2025-05-04 22:29:55] Detected trash: Biological with confidence 67%
+[2025-05-04 22:29:57] Detected trash: Plastic with confidence 80%
+[2025-05-04 22:30:04] Detected trash: Plastic with confidence 69%
+[2025-05-04 22:30:09] Detected trash: Biological with confidence 84%
+[2025-05-04 22:30:20] Detected trash: Plastic with confidence 69%
+[2025-05-04 22:30:25] Detected trash: Plastic with confidence 93%
+[2025-05-04 22:30:28] Detected trash: metal with confidence 63%
+[2025-05-04 22:31:15] Detected trash: Plastic with confidence 93%
+[2025-05-04 22:31:26] Detected trash: Plastic with confidence 64%
+[2025-05-04 22:31:45] Detected trash: Plastic with confidence 92%
+[2025-05-04 22:32:13] Detected trash: Plastic with confidence 83%
+[2025-05-04 22:32:19] Detected trash: Plastic with confidence 95%
+[2025-05-04 22:32:40] Detected trash: Plastic with confidence 67%
+[2025-05-04 22:32:47] Detected trash: Plastic with confidence 79%
+[2025-05-04 22:33:30] Detected trash: Plastic with confidence 79%
+[2025-05-04 22:35:49] Detected trash: Plastic with confidence 46%
+[2025-05-04 22:36:02] Detected trash: Plastic with confidence 66%
+[2025-05-04 22:36:03] Detected trash: Plastic with confidence 93%
+[2025-05-04 22:36:07] Detected trash: Plastic with confidence 78%
+[2025-05-04 22:36:34] Detected trash: Plastic with confidence 84%
+[2025-05-04 22:37:01] Detected trash: Plastic with confidence 52%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-04 22:37:22] Detected trash: Plastic with confidence 85%
+[2025-05-04 22:37:25] Detected trash: Plastic with confidence 55%
+[2025-05-04 22:37:34] Detected trash: Plastic with confidence 66%
+[2025-05-04 22:37:37] Detected trash: Plastic with confidence 89%
+[2025-05-04 22:37:49] Detected trash: Plastic with confidence 79%
+[INFO] Email alert sent.
+[2025-05-04 22:37:59] Detected trash: Plastic with confidence 88%
+[2025-05-04 22:38:09] Detected trash: Plastic with confidence 53%
+[2025-05-04 22:38:11] Detected trash: Biological with confidence 70%
+[2025-05-04 22:38:54] Detected trash: Plastic with confidence 48%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-06 15:39:28] Detected trash: Biological with confidence 68%
+[2025-05-06 15:39:37] Detected trash: Plastic with confidence 88%
+[2025-05-06 15:39:47] Detected trash: Biological with confidence 86%
+[2025-05-06 15:39:52] Detected trash: Plastic with confidence 75%
+[2025-05-06 15:39:58] Detected trash: Plastic with confidence 77%
+[2025-05-06 15:40:09] Detected trash: Plastic with confidence 66%
+[2025-05-06 15:41:23] Detected trash: Plastic with confidence 73%
+[2025-05-06 15:41:26] Detected trash: Plastic with confidence 75%
+[2025-05-06 15:41:39] Detected trash: Plastic with confidence 91%
+[2025-05-06 15:41:48] Detected trash: Plastic with confidence 92%
+[2025-05-06 15:41:53] Detected trash: Plastic with confidence 77%
+[2025-05-06 15:42:34] Detected trash: Plastic with confidence 68%
+[2025-05-06 15:43:10] Detected trash: metal with confidence 70%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-06 15:50:46] Detected trash: Plastic with confidence 65%
+[2025-05-06 15:50:59] Detected trash: Plastic with confidence 81%
+[2025-05-06 15:51:08] Detected trash: Plastic with confidence 68%
+[2025-05-06 15:51:16] Detected trash: Plastic with confidence 65%
+[2025-05-06 15:51:29] Detected trash: Plastic with confidence 74%
+[2025-05-06 15:51:34] Detected trash: Biological with confidence 82%
+[2025-05-06 15:52:18] Detected trash: Biological with confidence 65%
+[2025-05-06 15:52:22] Detected trash: Plastic with confidence 82%
+[2025-05-06 15:52:23] Detected trash: Plastic with confidence 80%
+[2025-05-06 15:52:59] Detected trash: Plastic with confidence 88%
+[2025-05-06 15:53:04] Detected trash: Plastic with confidence 92%
+[2025-05-06 15:53:21] Detected trash: Plastic with confidence 94%
+[2025-05-06 15:53:23] Detected trash: Plastic with confidence 73%
+[2025-05-06 15:53:26] Detected trash: Plastic with confidence 75%
+[2025-05-06 15:54:29] Detected trash: Biological with confidence 68%
+[2025-05-06 15:54:59] Detected trash: Plastic with confidence 78%
+[2025-05-06 15:55:01] Detected trash: Plastic with confidence 82%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-06 16:00:09] Detected trash: Plastic with confidence 79%
+[2025-05-06 16:00:14] Detected trash: Plastic with confidence 94%
+[2025-05-06 16:00:28] Detected trash: Plastic with confidence 80%
+[2025-05-06 16:00:32] Detected trash: Plastic with confidence 89%
+[2025-05-06 16:00:35] Detected trash: Plastic with confidence 64%
+[2025-05-06 16:00:46] Detected trash: Plastic with confidence 73%
+[INFO] Email alert sent.
+[2025-05-06 16:01:19] Detected trash: Plastic with confidence 66%
+[2025-05-06 16:02:22] Detected trash: Plastic with confidence 73%
+[2025-05-06 16:02:37] Detected trash: Biological with confidence 66%
+[INFO] Detection started.
+[2025-05-06 16:25:44] Detected trash: Plastic with confidence 77%
+[2025-05-06 16:25:47] Detected trash: Plastic with confidence 89%
+[2025-05-06 16:26:09] Detected trash: Plastic with confidence 60%
+[2025-05-06 16:26:14] Detected trash: metal with confidence 62%
+[2025-05-06 16:26:29] Detected trash: metal with confidence 76%
+[2025-05-06 16:26:41] Detected trash: Plastic with confidence 69%
+[2025-05-06 16:26:48] Detected trash: Plastic with confidence 66%
+[2025-05-06 16:27:30] Detected trash: Plastic with confidence 92%
+[2025-05-06 16:27:35] Detected trash: Plastic with confidence 93%
+[2025-05-06 16:27:40] Detected trash: Plastic with confidence 61%
+[2025-05-06 16:28:20] Detected trash: Plastic with confidence 89%
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-06 16:36:25] Detected trash: Plastic with confidence 78%
+[2025-05-06 16:36:30] Detected trash: Plastic with confidence 78%
+[2025-05-06 16:36:59] Detected trash: metal with confidence 65%
+[2025-05-06 16:37:00] Detected trash: metal with confidence 89%
+[2025-05-06 16:37:01] Detected trash: metal with confidence 87%
+[2025-05-06 16:37:09] Detected trash: Plastic with confidence 68%
+[2025-05-06 16:37:12] Detected trash: Plastic with confidence 72%
+[2025-05-06 16:37:13] Detected trash: Plastic with confidence 70%
+[2025-05-06 16:38:39] Detected trash: Plastic with confidence 84%
+[2025-05-06 16:38:39] Detected trash: Biological with confidence 66%
+[2025-05-06 16:38:45] Detected trash: Plastic with confidence 76%
+[2025-05-06 16:38:50] Detected trash: Plastic with confidence 80%
+[INFO] Detection stopped.
+[INFO] Detection stopped.
+[INFO] Detection started.
+[2025-05-06 16:46:07] Detected trash: Plastic with confidence 64%
+[2025-05-06 16:46:11] Detected trash: Plastic with confidence 79%
+[2025-05-06 16:46:11] Detected trash: metal with confidence 68%
+[2025-05-06 16:46:20] Detected trash: metal with confidence 86%
+[2025-05-06 16:46:29] Detected trash: metal with confidence 60%
+[2025-05-06 16:46:41] Detected trash: Plastic with confidence 78%
+[INFO] Email alert sent.
+[2025-05-06 16:46:46] Detected trash: Plastic with confidence 64%
+[INFO] Detection stopped.
