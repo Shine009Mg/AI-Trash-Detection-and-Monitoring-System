@@ -134,7 +134,3 @@ Robotics and Automation System Engineering
 Kasetsart University Sriracha Campus
 
 ---
-
-## 📄 Project Presentation
-
-The complete project presentation covers the system introduction, problem and solution, target applications, features, code flow, technology stack, demonstration, and future improvements.
