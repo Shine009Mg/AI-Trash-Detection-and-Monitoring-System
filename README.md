@@ -10,12 +10,12 @@ This project uses **AI-based computer vision** to provide real-time trash monito
 
 ## Features
 
-*  **Real-Time Trash Detection**
+**Real-Time Trash Detection**
 
   * Detects and labels trash using a webcam.
   * Uses a Roboflow YOLO object detection model.
 
-*  **Data Visualization**
+**Data Visualization**
 
   * Pie chart showing trash type distribution.
   * Line graph showing trash detection trends over time.
