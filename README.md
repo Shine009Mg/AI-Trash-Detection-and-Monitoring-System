@@ -2,6 +2,9 @@
 
 An AI-powered real-time trash detection and monitoring system developed using **Python, Roboflow, and OpenCV**. The system detects and classifies trash from a live camera feed, visualizes detection data, stores logs for analysis, and sends automatic alerts when trash activity becomes high.
 
+<img width="1497" height="617" alt="Screenshot 2026-09-03 234156" src="https://github.com/user-attachments/assets/c0d8d7b7-8f98-4897-81c3-05b4a3b28267" />
+
+
 ## Project Overview
 
 Improperly disposed waste is a major environmental problem in urban and public areas. Manual monitoring is difficult because humans cannot continuously observe large areas.
@@ -92,7 +95,6 @@ The system provides real-time information including:
 * Trash type distribution
 * Detection trends
 
-<img width="1497" height="617" alt="Screenshot 2026-09-03 234156" src="https://github.com/user-attachments/assets/c0d8d7b7-8f98-4897-81c3-05b4a3b28267" />
 
 ## Future Improvements
 
