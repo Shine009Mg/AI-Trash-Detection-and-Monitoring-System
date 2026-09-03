@@ -20,7 +20,7 @@ This project uses **AI-based computer vision** to provide real-time trash monito
   * Pie chart showing trash type distribution.
   * Line graph showing trash detection trends over time.
 
-*  **GUI Dashboard**
+ **GUI Dashboard**
 
   * Built with Tkinter.
   * Start/stop detection.
@@ -28,22 +28,22 @@ This project uses **AI-based computer vision** to provide real-time trash monito
   * Image preview.
   * Confidence adjustment.
 
-*  **Data Logging**
+ **Data Logging**
 
   * Saves detected images as `.jpg`.
   * Stores detection information in `.txt` files.
   * Records trash type, confidence, and timestamp.
 
-*  **InfluxDB Integration**
+ **InfluxDB Integration**
 
   * Stores detection data in a time-series database.
   * Supports historical data analysis.
 
-*  **Email Alert**
+ **Email Alert**
 
   * Automatically sends an email when high trash activity is detected.
 
-*  **Background Processing**
+ **Background Processing**
 
   * Uses Python threading to run detection without freezing the GUI.
 
