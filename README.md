@@ -2,25 +2,25 @@
 
 An AI-powered real-time trash detection and monitoring system developed using **Python, Roboflow, and OpenCV**. The system detects and classifies trash from a live camera feed, visualizes detection data, stores logs for analysis, and sends automatic alerts when trash activity becomes high.
 
-## 📌 Project Overview
+## Project Overview
 
 Improperly disposed waste is a major environmental problem in urban and public areas. Manual monitoring is difficult because humans cannot continuously observe large areas.
 
 This project uses **AI-based computer vision** to provide real-time trash monitoring and help improve waste management.
 
-## ✨ Features
+## Features
 
-* 🎥 **Real-Time Trash Detection**
+*  **Real-Time Trash Detection**
 
   * Detects and labels trash using a webcam.
   * Uses a Roboflow YOLO object detection model.
 
-* 📊 **Data Visualization**
+*  **Data Visualization**
 
   * Pie chart showing trash type distribution.
   * Line graph showing trash detection trends over time.
 
-* 🖥️ **GUI Dashboard**
+*  **GUI Dashboard**
 
   * Built with Tkinter.
   * Start/stop detection.
@@ -28,26 +28,26 @@ This project uses **AI-based computer vision** to provide real-time trash monito
   * Image preview.
   * Confidence adjustment.
 
-* 💾 **Data Logging**
+*  **Data Logging**
 
   * Saves detected images as `.jpg`.
   * Stores detection information in `.txt` files.
   * Records trash type, confidence, and timestamp.
 
-* ☁️ **InfluxDB Integration**
+*  **InfluxDB Integration**
 
   * Stores detection data in a time-series database.
   * Supports historical data analysis.
 
-* 📧 **Email Alert**
+*  **Email Alert**
 
   * Automatically sends an email when high trash activity is detected.
 
-* ⚙️ **Background Processing**
+*  **Background Processing**
 
   * Uses Python threading to run detection without freezing the GUI.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology      | Purpose                     |
 | --------------- | --------------------------- |
@@ -61,7 +61,7 @@ This project uses **AI-based computer vision** to provide real-time trash monito
 | SMTP            | Email notifications         |
 | Threading       | Background processing       |
 
-## 🔄 System Workflow
+## System Workflow
 
 ```text
 Camera / Webcam
@@ -81,7 +81,7 @@ GUI   Logging   InfluxDB   Email Alert
 Real-Time Visualization
 ```
 
-## 📊 Monitoring
+## Monitoring
 
 The system provides real-time information including:
 
@@ -92,7 +92,7 @@ The system provides real-time information including:
 * Trash type distribution
 * Detection trends
 
-## 🚀 Future Improvements
+## Future Improvements
 
 ### Multi-Camera & GPS Integration
 
@@ -107,27 +107,8 @@ Zone 4 → LOW Trash
 
 This could allow authorities to identify high-priority areas and improve garbage collection planning.
 
-### AI Model Enhancement
 
-A custom Roboflow model can be trained using:
-
-* More trash categories
-* More real-world images
-* Different lighting conditions
-* Different camera angles
-
-This can improve detection accuracy in real-world environments.
-
-## 🎯 Target Applications
-
-* Municipal waste management
-* Environmental monitoring
-* Smart city systems
-* Public-area monitoring
-* Pollution trend analysis
-* Automated garbage collection planning
-
-## 👨‍💻 Project Author
+## Project Author
 
 **Shine Lin Htet**
 Robotics and Automation System Engineering
