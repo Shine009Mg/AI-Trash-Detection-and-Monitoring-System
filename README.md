@@ -92,6 +92,10 @@ The system provides real-time information including:
 * Trash type distribution
 * Detection trends
 
+<img width="1497" height="617" alt="Screenshot 2026-09-03 234156" src="https://github.com/user-attachments/assets/c0d8d7b7-8f98-4897-81c3-05b4a3b28267" />
+
+<img width="992" height="517" alt="Screenshot 2026-09-03 234330" src="https://github.com/user-attachments/assets/33566d64-b18c-44ea-9605-63c39cc49882" />
+
 ## Future Improvements
 
 ### Multi-Camera & GPS Integration
